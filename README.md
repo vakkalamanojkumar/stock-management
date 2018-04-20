@@ -1,0 +1,2 @@
+# stock-management
+A Java project using Core Java &amp; JDBC to build an application that works on managing the raw materials in the company for manufacturing the products by using those raw materials. Employee can add raw materials and can check the amount of raw materials present in the company. It takes care whether the amount of raw material available are sufficient for making the products or not. Admin can see all the details of his employees.
